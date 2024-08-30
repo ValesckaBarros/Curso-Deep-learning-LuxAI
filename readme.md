@@ -38,12 +38,5 @@ Os exercícios abaixo foram desenvolvidos por mim durante o curso LuxAI da UFPE:
 1. **Exercício_pratico_02_Intro_ao_pandas.ipynb**: Exercício prático com Pandas para manipulação e análise de dados.
 2. **Exercício_pratico_02_Intro_ao_pandas_venda-de-carros-formatado.csv**: Dataset formatado para o exercício prático sobre Pandas.
 
-## Projetos Adicionais
 
-1. **Invistico_Airline.csv**: Dataset relacionado ao projeto de análise de dados de uma companhia aérea fictícia.
 
-## Como usar este repositório
-
-1. Clone o repositório para a sua máquina local:
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
