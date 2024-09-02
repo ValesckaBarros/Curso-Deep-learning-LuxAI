@@ -1,4 +1,4 @@
-# Projetos de Machine Learning e Deep Learning
+# Curso Deep Learning - LuxAI
 
 Este repositório contém uma coleção de exercícios e projetos desenvolvidos por mim ao longo do curso **Aprendizagem Profunda** desenvolvido pelo **Programa LuxAI do CIN UFPE**. Os exercícios abordam temas essenciais de Machine Learning, Deep Learning e outras áreas de ciência de dados, processamento de imagens e visão computacional.
 
